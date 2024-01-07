@@ -1,0 +1,43 @@
+.div1{
+    width: 1320px;
+    height: 600px;
+    background-image: url(Banner-image.png);
+    }
+.div11{
+    width:632px;
+    height:246px;
+    padding:177px 344px;
+    
+
+     }
+.div111{
+   width: 259px;
+   height:40px;
+   padding:0px 186.5px 16px 186.5px;
+   text-align: center;
+   align-items: center;;
+   color:white;
+   font-size:32px;
+   font-weight: 400;
+   font-family: 'Merriweather'"
+
+}
+.div112{
+    width:632px;
+    height:246px;
+    margin-bottom:0px;
+    font-size: 72px;
+    font-weight: 900;
+    font-family: 'Merriweather';
+    line-height:96px;
+    align-items:center;
+    text-align: center;
+    color:white;
+
+    
+}
+.lig1{
+    width: 1320px;
+    height: 600px;
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%)
+}
